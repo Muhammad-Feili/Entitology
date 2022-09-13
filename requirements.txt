@@ -1,8 +1,10 @@
 asgiref==3.5.2
 astroid==2.11.7
 dill==0.3.5.1
+dj-database-url==1.0.0
 Django==3.2.14
 django-filter==22.1
+django-heroku==0.3.1
 django-restframework==0.0.1
 djangorestframework==3.13.1
 importlib-metadata==4.12.0
@@ -16,6 +18,7 @@ numpy==1.21.6
 pandas==1.1.5
 platformdirs==2.5.2
 protobuf==3.20.1
+psycopg2==2.9.3
 PyHamcrest==2.0.3
 pylint==2.13.9
 python-dateutil==2.8.2
@@ -25,5 +28,6 @@ sqlparse==0.4.2
 tomli==2.0.1
 typed-ast==1.5.4
 typing-extensions==4.3.0
+whitenoise==6.2.0
 wrapt==1.14.1
 zipp==3.8.1
